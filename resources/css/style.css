@@ -1,14 +1,29 @@
-.title {
+body {
   text-align: center;
-  font-size: 50px;
-  font-weight: normal;
   color: white;
   font-family: Verdana;
+  background-color: black;
 }
 
-.download {
-  text-align: center;
+.title{
+  font-size: 50px;
+    font-weight: normal;
+}
+
+.cta {
   color: aquamarine;
   font-size: 16px;
+}
+
+h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.sub {
+  font-size: 21px;
+  color: gray;
+  font-family: Verdana;
 
 }
